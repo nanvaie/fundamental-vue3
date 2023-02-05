@@ -1,9 +1,21 @@
 {
-    "name": "fundamental-vue3",
+    "name": "@nanvaie/fundamental-vue3",
     "version": "0.0.1",
     "dependencies": {
         "@sap-theming/theming-base-content": "^11.1.48",
         "fundamental-styles": "^0.26.5",
         "vue": "^3.2.45"
-    }
+    },
+    "description": "",
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nanvaie/fundamental-vue3.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/nanvaie/fundamental-vue3/issues"
+    },
+    "homepage": "https://github.com/nanvaie/fundamental-vue3#readme"
 }
