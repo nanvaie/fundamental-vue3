@@ -1,0 +1,9 @@
+{
+    "name": "fundamental-vue3",
+    "version": "0.0.1",
+    "dependencies": {
+        "@sap-theming/theming-base-content": "^11.1.48",
+        "fundamental-styles": "^0.26.5",
+        "vue": "^3.2.45"
+    }
+}
